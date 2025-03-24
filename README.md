@@ -1,6 +1,6 @@
 # Sprunki Retake New Human Plus: Tactical Evolution
 
-![Sprunki Retake New Human Plus Enhanced Edition](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-retake-new-human-plus/refs/heads/main/sprunki-retake-enhanced.png "Sprunki Retake New Human Plus Tactical Warfare")
+![Sprunki Retake New Human Plus Enhanced Edition](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-retake-new-human-plus/refs/heads/main/sprunki-retake-new-human-plus.png "Sprunki Retake New Human Plus Tactical Warfare")
 
 ➡️ Play Now - Original Edition: [Sprunki Retake New Human Plus](https://sprunksters.com/sprunki-retake-new-human-plus/ "Classic Tactical Experience")
 
